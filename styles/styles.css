@@ -148,20 +148,34 @@ h3{
 .Plants-Lover-Section{
   display: flex;
   gap: 60px;
-  
   width: 1140px;
-  
   margin-left: 120px;
 }
 .flower-store{
-  margin-top: 150px;
+  margin-top: 190px;
   width: 540px;
   height: 497px;
+  
+  position: relative;
+  display: inline-block;
+}
+.main-img{
+  display: block;
+
+}
+.overlay-img{
+  position: absolute;
+  top:-520px;
+  right:-460px;
+ transform: scale(.3);
+  
+  
+  
 }
 .lover-title{
   font-size: 50px;
   font-weight: bold;
-  margin-top: 190px;
+  margin-top: 220px;
 
 }
 .lover-subtitle{
