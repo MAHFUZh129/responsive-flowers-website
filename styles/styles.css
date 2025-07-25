@@ -317,6 +317,45 @@ h6{
   justify-content: center;
   gap: 0px;
 }
+/* footer styles */
+footer{
+  margin-bottom: 100px;
+}
+
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 100px;
+}
+
+.footer-left {
+  max-width: 300px;
+}
+
+.footer-left .logo {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.footer-links {
+  display: flex;
+  gap:110px;
+}
+
+.footer-links a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  margin-bottom:30px;
+  font-size: 18px;
+}
+
+.footer-social a img {
+  width: 24px;
+  margin-right: 50px;
+}
 
 
 
