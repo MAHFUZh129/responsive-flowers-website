@@ -431,7 +431,14 @@ padding:110px 36px 64px 36px;
   text-align: center; 
   padding-left:-100px;
 }
+.footer-links{
+  flex-direction: column;
+  margin-left: 2px;
+}
+.footer-links a{
+  margin-bottom: 10px;
 
+}
 
 
  
