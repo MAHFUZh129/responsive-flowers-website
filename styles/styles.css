@@ -163,7 +163,7 @@ h3{
   display: block;
 
 }
-.overlay-img{
+.trusted-badge-img{
   position: absolute;
   top:-520px;
   right:-460px;
@@ -206,16 +206,30 @@ h3{
   flex-direction: column-reverse;
   margin-left: 1px;
 }
+.our-plants{
+  text-align: center;
+  width: 570px;
+}
 .container{
   grid-template-columns: repeat(2,1fr);
  margin-left: 3px;
  width: 560px;
+}
+.flower-store{
+  margin-top:50px;
+}
+.lover-title{
+  margin-top: 45px;
 }
 .Plants-Lover-Section{
   width: 570px;
   flex-direction: column;
   margin-left: 3px;
 }
+.trusted-badge-img{
+  display: none;
+}
+
 
 }
   
