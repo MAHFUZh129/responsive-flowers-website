@@ -150,6 +150,7 @@ h3{
   gap: 60px;
   width: 1140px;
   margin-left: 120px;
+  margin-bottom: 134px;
 }
 .flower-store{
   margin-top: 190px;
@@ -183,7 +184,107 @@ h3{
   font-weight: 400;
   color: #6B7280;
 }
+/* Latest-Deal-Section */
+.Latest-Deal-Section{
+  width: 1140px;
 
+}
+.shared-styles{
+  border-radius:15px;
+}
+.text{
+  text-align: center;
+}
+.bloom-img{
+  margin-bottom: 16px;
+}
+.flower-imgs{
+  display: flex;
+}
+.left-img{
+  flex-direction: column;
+  
+  width: 367px;
+  height: 201px;
+  
+}
+.right-img{
+  width: 753px;
+  height: 424px;
+  position: relative;
+ 
+}
+.flower-imgs{
+  width: 1140px;
+  margin-left: 120px;
+  margin-bottom: 120px;
+  gap: 28px;
+
+}
+h4{
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom:1px;
+}
+h6{
+  font-weight: 400;
+  font-size: 16px;
+  color: #6B7280;
+ 
+}
+#latest{
+  color: #E95A08;
+}
+.overlay-text{
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-weight: bold;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.shop{
+  font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.img-box{
+  position: relative;
+}
+
+
+.overlay-text{
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-weight: bold;
+  font-size: 20px;
+  color: #FFFFFF;
+
+}
+.overlay-text3{width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-weight: bold;
+  font-size: 40px;
+  color: #FFFFFF;}
+  .shop3{
+    font-size: 22px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-decoration: underline;
+
+  }
 
 
 /* responsive media query */
