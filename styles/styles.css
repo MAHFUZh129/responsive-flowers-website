@@ -382,6 +382,16 @@ h6{
 .botom-img{
   width: 570px;
 }
+.subscribe-section{
+width: 570px;
+margin-top: 420px;
+padding:110px 36px 64px 36px;
+}
+.subscribe-form{
+  width:30px;
+  text-align: center; 
+  padding-left:-100px;
+}
 
 
 
