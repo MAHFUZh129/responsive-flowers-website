@@ -286,11 +286,11 @@ h6{
 
   }
 
-
+.deal-holder{text-align: center;}
 /* responsive media query */
 @media screen and (max-width:576px){
   body{
-    overflow-x: hidden;
+    overflow-x:hidden;
   }
   .navbar{
     width: 100%;
@@ -330,9 +330,33 @@ h6{
 .trusted-badge-img{
   display: none;
 }
-
-
+.deal-holder{
+  text-align: center;
+  width: 570px;
 }
+.flower-imgs{
+  flex-direction: column;
+  margin-left:1px;
+}
+.side-img{
+  width: 570px;
+  margin-top: 430px;
+  
+}
+.bloom-img{
+  width: 570px;
+}
+.botom-img{
+  width: 570px;
+}
+
+
+
+ 
+}
+
+
+
   
   
   
