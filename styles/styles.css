@@ -287,6 +287,39 @@ h6{
   }
 
 .deal-holder{text-align: center;}
+/* subscribe-section-styles */
+.subscribe-section{
+   background: url(/assets/news-letter-bg.png) no-repeat center center/cover;
+  margin-top: 120px;
+  margin-bottom: 120px;
+  padding: 199px 305px 193px 305px;
+  text-align: center;
+}
+.subscribe-section h2 {
+  font-size: 50px;
+  font-weight: bold;
+  color: #FFFFFF;
+  margin-bottom: 20px;
+}
+.subscribe-form button {
+  background-color: #E95A08;
+  color: #FFFFFF;
+  padding:20px 39px;
+  
+  
+  
+}
+.subscribe-form input{
+  padding:20px 540px 20px 30px ;
+}
+.subscribe-form{
+  display: flex;
+  justify-content: center;
+  gap: 0px;
+}
+
+
+
 /* responsive media query */
 @media screen and (max-width:576px){
   body{
